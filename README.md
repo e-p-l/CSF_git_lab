@@ -4,4 +4,7 @@
 The goal of the lab is to understand how to use git in a team setting.
 
 ### Installation
-git clone git@github.com:e-p-l/CSF_git_lab.git
+* through a terminal, make sure to have git installed
+  ```sh
+  git clone git@github.com:e-p-l/CSF_git_lab.git
+  ```
