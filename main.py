@@ -4,6 +4,6 @@ def greet(name: str) -> str:
 
 if __name__ == "__main__":
     name = input("Hi, what's your name?\n")
-    
+
 
     print(greet(name))
